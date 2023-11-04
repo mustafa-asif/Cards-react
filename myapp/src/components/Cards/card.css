@@ -1,0 +1,45 @@
+.cards{
+  
+    border-radius: 20px;
+    box-shadow: 10px 0px 10px grey;
+    width: 250px;
+    margin: 10px;
+    
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 50px;
+    margin-left: 30px;
+    padding-bottom: 30px;
+  
+    
+    
+  }
+  .main{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+  }
+  .cards img{
+    width: 100%;
+    overflow: hidden;
+    height: 200px;
+  }
+  .btns{
+    text-align: end;
+    
+  }
+ 
+  .btns button{
+    box-shadow: 10px 0px  10px gray;
+    
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    margin-right: 5px;
+
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+  }
+  
